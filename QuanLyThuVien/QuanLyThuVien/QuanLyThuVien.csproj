@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connection.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +61,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="QuanlyThuvienDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -71,6 +71,20 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>QuanlyThuvienDataSet1.xsd</DependentUpon>
+=======
+    <Compile Include="qltvDataSet.cs">
+      <DependentUpon>qltvDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="qltvDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>qltvDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="qltvDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>qltvDataSet1.xsd</DependentUpon>
+>>>>>>> parent of 71d7b68... Như push QLTV
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -102,6 +116,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="QuanlyThuvienDataSet.xsc">
       <DependentUpon>QuanlyThuvienDataSet.xsd</DependentUpon>
     </None>
@@ -123,6 +138,29 @@
     </None>
     <None Include="QuanlyThuvienDataSet1.xss">
       <DependentUpon>QuanlyThuvienDataSet1.xsd</DependentUpon>
+=======
+    <None Include="qltvDataSet.xsc">
+      <DependentUpon>qltvDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="qltvDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>qltvDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="qltvDataSet.xss">
+      <DependentUpon>qltvDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="qltvDataSet1.xsc">
+      <DependentUpon>qltvDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="qltvDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>qltvDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="qltvDataSet1.xss">
+      <DependentUpon>qltvDataSet1.xsd</DependentUpon>
+>>>>>>> parent of 71d7b68... Như push QLTV
     </None>
     <None Include="Resources\user2.PNG" />
   </ItemGroup>

@@ -9,6 +9,7 @@ C:\Users\ADMIN\source\repos\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.
 C:\Users\ADMIN\source\repos\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 C:\Users\ADMIN\source\repos\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
 C:\Users\ADMIN\source\repos\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resources
+<<<<<<< HEAD
 C:\Users\KNV\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
 C:\Users\KNV\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
 C:\Users\KNV\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resources
@@ -52,6 +53,8 @@ C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\De
 C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 C:\Users\ADMIN\Documents\GitHub\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+=======
+>>>>>>> parent of 71d7b68... Như push QLTV
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
@@ -63,6 +66,7 @@ C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\De
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 C:\Users\lehoc\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+<<<<<<< HEAD
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
@@ -74,3 +78,5 @@ E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 E:\Kỳ 1 năm 4\8. Thực tập nhóm\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+=======
+>>>>>>> parent of 71d7b68... Như push QLTV
