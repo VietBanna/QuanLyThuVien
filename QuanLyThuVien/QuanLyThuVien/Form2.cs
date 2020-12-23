@@ -100,20 +100,7 @@ namespace QuanLyThuVien
 
         private void btn_muonsach_Click(object sender, EventArgs e) // muon sach
         {
-            lb_control.Visible = true;
-            lb_control.Location = new Point(0, 203);
-<<<<<<< HEAD
-               panelHV.Visible = false;
-               pn_TraSach.Visible = false;
-               
-               panelSACH.Visible = false;
-               pn_DauSach.Visible = false;
-               
-               pn_muonsach.Visible = true;
-            pn_muonsach.Dock = DockStyle.Fill;
-            panelHV.Visible = false;
-=======
-            pn_sach.Visible = false;
+ 
 >>>>>>> parent of 71d7b68... Như push QLTV
         }
 
