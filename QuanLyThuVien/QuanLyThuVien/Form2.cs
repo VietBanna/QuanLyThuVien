@@ -122,13 +122,13 @@ namespace QuanLyThuVien
             lb_control.Visible = true;
             lb_control.Location = new Point(0, 270);
 <<<<<<< HEAD
-               panelHV.Visible = false;
-               
-               pn_muonsach.Visible = false;
-               panelSACH.Visible = false;
-               pn_DauSach.Visible = false;
-               
-               pn_TraSach.Visible = true;
+            panelHV.Visible = false;
+
+            pn_muonsach.Visible = false;
+            panelSACH.Visible = false;
+            pn_DauSach.Visible = false;
+
+            pn_TraSach.Visible = true;
             pn_TraSach.Dock = DockStyle.Fill;
 =======
             pn_sach.Visible = false;
